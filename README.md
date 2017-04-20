@@ -1,6 +1,6 @@
 # Introduction
 
-This project implements a Common Controller Core Library for orchestration an F5 BIG-IP (r) for use within other libraries that need to read, diff and apply configurations to a BIG-IP (r).
+This project implements a Common Controller Core Library for orchestration an F5 BIG-IP&reg; for use within other libraries that need to read, diff and apply configurations to a BIG-IP&reg;.
 
 # Filling Issues
 
